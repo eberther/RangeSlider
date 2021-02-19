@@ -1,0 +1,14 @@
+C:\Users\eberther\source\repos\RangeSlider\RangeSlider\RangeSlider\bin\Debug\netstandard2.0\RangeSlider.deps.json
+C:\Users\eberther\source\repos\RangeSlider\RangeSlider\RangeSlider\bin\Debug\netstandard2.0\RangeSlider.dll
+C:\Users\eberther\source\repos\RangeSlider\RangeSlider\RangeSlider\bin\Debug\netstandard2.0\ref\RangeSlider.dll
+C:\Users\eberther\source\repos\RangeSlider\RangeSlider\RangeSlider\bin\Debug\netstandard2.0\RangeSlider.pdb
+C:\Users\eberther\source\repos\RangeSlider\RangeSlider\RangeSlider\obj\Debug\netstandard2.0\RangeSlider.csprojAssemblyReference.cache
+C:\Users\eberther\source\repos\RangeSlider\RangeSlider\RangeSlider\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\eberther\source\repos\RangeSlider\RangeSlider\RangeSlider\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\eberther\source\repos\RangeSlider\RangeSlider\RangeSlider\obj\Debug\netstandard2.0\RangeSlider.AssemblyInfoInputs.cache
+C:\Users\eberther\source\repos\RangeSlider\RangeSlider\RangeSlider\obj\Debug\netstandard2.0\RangeSlider.AssemblyInfo.cs
+C:\Users\eberther\source\repos\RangeSlider\RangeSlider\RangeSlider\obj\Debug\netstandard2.0\RangeSlider.csproj.CoreCompileInputs.cache
+C:\Users\eberther\source\repos\RangeSlider\RangeSlider\RangeSlider\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\eberther\source\repos\RangeSlider\RangeSlider\RangeSlider\obj\Debug\netstandard2.0\RangeSlider.dll
+C:\Users\eberther\source\repos\RangeSlider\RangeSlider\RangeSlider\obj\Debug\netstandard2.0\ref\RangeSlider.dll
+C:\Users\eberther\source\repos\RangeSlider\RangeSlider\RangeSlider\obj\Debug\netstandard2.0\RangeSlider.pdb

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:range="clr-namespace:Syncfusion.SfRangeSlider.XForms;assembly=Syncfusion.SfRangeSlider.XForms"
+            xmlns:Local="clr-namespace:RangeSlider;assembly=RangeSlider"
+             x:Class="RangeSlider.MainPage">
+    
+    <ContentPage.Content>
+        <StackLayout>
+            <range:SfRangeSlider x:Name="rangeslider" 
+                                 Value="25" 
+                                 Orientation="Horizontal" 
+                                 ShowRange="false" 
+                                 TickFrequency="25" 
+                                 SnapsTo="Ticks"
+                                 ShowCustomLabel="True">
+                <range:SfRangeSlider.CustomLabels>
+                    <Local:ObservableCollectionList>
+                        <range:Items Label="5" Value="0"/>
+                        <range:Items Label="10" Value="25"/>
+                        <range:Items Label="30" Value="50"/>
+                        <range:Items Label="60" Value="75"/>
+                        <range:Items Label="120" Value="100"/>
+                    </Local:ObservableCollectionList>
+                </range:SfRangeSlider.CustomLabels>
+            </range:SfRangeSlider>
+
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>
